@@ -2,9 +2,10 @@
   <foreignObject width="300" height="200">
     <body xmlns="http://www.w3.org/1999/xhtml">
       <form action="https://example.com" method="POST">
-        <input type="text" name="test">
-        <input type="submit">
+        <input type="text" name="test" />
+        <input type="submit" />
       </form>
     </body>
   </foreignObject>
 </svg>
+
