@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-  <a href="https://example.com">
-    <text x="10" y="20">Go</text>
-  </a>
+  <foreignObject width="300" height="200">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <form action="https://example.com" method="POST">
+        <input type="text" name="test">
+        <input type="submit">
+      </form>
+    </body>
+  </foreignObject>
 </svg>
